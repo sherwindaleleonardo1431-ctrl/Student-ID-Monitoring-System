@@ -1,4 +1,4 @@
-# ZPPSU Student ID Monitoring System — Starter
+# Student ID Monitoring System — Starter
 
 Starter project using React + Vite, Express, and MySQL. It includes database schema, JWT login, role checks, student CRUD, attendance time-in/time-out, dashboard metrics, and CSV export endpoint.
 
